@@ -16,7 +16,7 @@ Root\
 ## Spiegazione della Struttura
 
 Nella **Root**, ovvero nella posizione iniziale della repository, è presente una cartella intitolata **"Nome o alias di chi condivide gli appunti"**.  
-Tale cartella andra poi caricata all'interno della repository relativa all'insegnamento interessato.
+Tale cartella andrà poi caricata all'interno della repository relativa all'insegnamento interessato.
 Questa cartella, che prende il nome della persona o un alias, conterrà diversi file al suo interno:
 - **DeliveryNote.md**  
   Il file **DeliveryNote.md** è un documento in formato Markdown che funge da "bolla d'accompagnamento" degli appunti. In esso sono riportate varie informazioni relative agli appunti. Vedremo, in una sezione dedicata, il motivo della presenza di questo file e la sua struttura.

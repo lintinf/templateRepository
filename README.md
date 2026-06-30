@@ -21,6 +21,7 @@ Questa cartella, che prende il nome della persona o un alias, conterrà diversi 
   Il file **DeliveryNote.md** è un documento in formato Markdown che funge da "bolla d'accompagnamento" degli appunti. In esso sono riportate varie informazioni relative agli appunti. Vedremo, in una sezione dedicata, il motivo della presenza di questo file e la sua struttura.
 - **Appunti**  
   Nella cartella **Appunti** andranno caricati i vostri appunti.
+Tale cartella andra poi caricata all'interno della repository relativa all'insegnamento interessato.
 
 ## Che Tipo di Appunti Posso Caricare? E in Che Formato?
 
